@@ -1,33 +1,36 @@
 body {
-    background-image:url(images/20260614_101708.jpg);
-    background-repeat:no-repeat;
-    background-size:cover;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-#content{
-    margin-left:auto;
-    margin-right:auto;
-    width:60%;
-    backdrop-filter: blur(5px);
-    background: rgba(255, 255, 255, 0.2);
-    text-align:center;
-    border-radius:30px;
-    padding:1px;
+    background-image: url(images/20260614_101708.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-#firstrow{
-    display:flex;
-    justify-content: space-between;
-    gap:20px;
+#content {
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    backdrop-filter: blur(5px);
+    background: rgba(255, 255, 255, 0.2);
+    text-align: center;
+    border-radius: 30px;
+    padding: 1px;
 }
-.section{
-    width:50%;
-    margin:10px;
+
+#firstrow {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.section {
+    width: 50%;
+    margin: 10px;
     backdrop-filter: blur(1px);
     background: rgba(255, 255, 255, 0.1);
-    border-radius:50px;
-    padding:5px;
+    border-radius: 50px;
+    padding: 5px;
 }
-p{
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
