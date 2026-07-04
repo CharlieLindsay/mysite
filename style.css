@@ -1,0 +1,12 @@
+body {
+    background-image:url(images/20260614_101708.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+#content{
+    width:60%;
+    backdrop-filter: blur(5px);
+    background-color:aqua;
+    text-align:center;
+}
+
