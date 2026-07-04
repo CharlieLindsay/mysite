@@ -1,5 +1,6 @@
 # Charlie's Personal Site
 ### This is a simple site about myself. I hope you enjoy :)
+![Screenshot of my site](https://mysite.charleilei.dpdns.org/images/20260614_101708.jpg)
 
 ## Includes:
 - A cool photo I took
